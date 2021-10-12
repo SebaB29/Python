@@ -1,6 +1,6 @@
 def hello() -> None:
     """..."""
 
-    print("Hello World!!!")
+    print("Hello World!")
 
 hello()

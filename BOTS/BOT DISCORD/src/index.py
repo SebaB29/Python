@@ -54,7 +54,7 @@ async def on_ready():
     # await bot.change_presence(activity=discord.Streaming(name="Tutorials", url="https://www.twitch.tv/accountname"))
     print("My bot is ready")
 
-bot.run('ODgyMjQyMDkyMDI0MzQwNTAx.YS4h-g.BDeP0aYu4kL1fubftT8KbCW6RtU')
+bot.run("TOKEN")
 
 # client = discord.Client()
 
@@ -70,4 +70,4 @@ bot.run('ODgyMjQyMDkyMDI0MzQwNTAx.YS4h-g.BDeP0aYu4kL1fubftT8KbCW6RtU')
 #     if message.content.startswith('$hello'):
 #         await message.channel.send('Hello!')
 
-# client.run('ODgyMjQyMDkyMDI0MzQwNTAx.YS4h-g.BDeP0aYu4kL1fubftT8KbCW6RtU')
+# client.run("TOKEN")
